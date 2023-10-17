@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.34.4
 	github.com/ghodss/yaml v1.0.0
 	github.com/spf13/pflag v1.0.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.4
 	go.opencensus.io v0.23.0 // indirect
 	google.golang.org/api v0.70.0
 	gopkg.in/yaml.v2 v2.2.8
@@ -46,7 +46,7 @@ require (
 	google.golang.org/grpc v1.44.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/inf.v0 v0.9.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/api v0.0.0 // indirect
 	k8s.io/apimachinery v0.0.0 // indirect
 	k8s.io/client-go v0.0.0 // indirect
